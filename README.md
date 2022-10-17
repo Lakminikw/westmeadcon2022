@@ -13,4 +13,4 @@ Conference on 18-19 August 2022 in Sydney.
 https://github.com/Lakminikw/westmeadcon2022
 /poster.pdf?raw=true
 
-![Screenshot](poster.pdf)
+![Screenshot](poster.jpg)
